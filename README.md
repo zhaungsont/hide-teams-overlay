@@ -1,6 +1,6 @@
 # Hide/Show Teams Overlay Tool
 
-Are you too annoyed by the Teams Overlay when screen sharing? This Python script toggles the visibility of Microsoft Teams-related windows on macOS. It's designed for users who want to hide overlay windows during screen sharing sessions in Microsoft Teams without closing the application.
+Are you too annoyed by the Microsoft Teams Overlay when screen sharing? This Python script toggles the visibility of Microsoft Teams-related windows on macOS! It's designed for users who want to hide overlay windows during screen sharing sessions in Microsoft Teams without closing the application.
 
 ## Features
 
