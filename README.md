@@ -18,6 +18,20 @@ This Python script toggles the visibility of Microsoft Teams-related windows on 
 - macOS
 - Python 3.x (for source code)
 
+## Compiling the Executable Yourself
+
+To compile this script into an executable for macOS:
+
+1. Ensure Python and PyInstaller are installed.
+2. Navigate to the script's directory in Terminal.
+3. Run the following command to compile the executable for macOS:
+   ```
+   pyinstaller --onefile app.py
+   ```
+4. Find the executable in the `dist` folder.
+
+This creates a standalone application that can be run without Python installed.
+
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
