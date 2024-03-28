@@ -23,8 +23,11 @@ To bypass this, follow these steps:
 1. Go to System Preferences > Security & Privacy.
 2. Under the Security tab, you will see a message at the bottom saying "hide-teams was blocked from use because the identity of the developer cannot be confirmed."
 3. Next to this message, click Open Anyway.
+   
    <img src="assets/2.png" alt="System Preferences, Privacy & Security Page" width="400"/>
+
 4. A confirmation dialog will appear. Click Open to allow the program to run.
+
    <img src="assets/3.png" alt="A pop-up window prompting the user to open or cancel" width="300"/>
 
 **This process is a one-time security measure** by macOS for applications downloaded from the internet. After you've allowed it, you should be able to run the "hide-teams" executable without any further interruptions.
