@@ -59,6 +59,4 @@ Contributions, issues, and feature requests are welcome!
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
 
-Ensure to provide clear setup instructions, including how to download Python if necessary and how to execute the script directly if users prefer that over using the executable.
