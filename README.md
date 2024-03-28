@@ -13,6 +13,20 @@ Are you too annoyed by the Microsoft Teams Overlay when screen sharing? This Pyt
 1. Download the executable from the GitHub Releases.
 2. Double-click to run. Each execution toggles the visibility of Microsoft Teams overlays.
 
+### Running the Program for the First Time
+When running the "hide-teams" executable for the first time on macOS, you may encounter a security warning stating, "hide-teams can't be opened because the identity of the developer cannot be confirmed." 
+![A pop-up window saying "hide-teams" can't be opened because the identity of the developer cannot be confirmed.](assets/1.png)
+To bypass this, follow these steps:
+
+1. Go to System Preferences > Security & Privacy.
+2. Under the General tab, you will see a message at the bottom saying "hide-teams was blocked from use because it is not from an identified developer."
+3. Next to this message, click Open Anyway.
+   ![System Preferences, Privacy & Security Page](assets/2.png)
+4. A confirmation dialog will appear. Click Open to allow the program to run.
+   ![A pop-up window prompting the user to open or cancel](assets/3.png)
+
+This process is a one-time security measure by macOS for applications downloaded from the internet. After you've allowed it, you should be able to run the "hide-teams" executable without any further interruptions.
+
 ## Requirements
 
 - macOS
